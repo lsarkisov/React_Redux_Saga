@@ -1,0 +1,13 @@
+.header {
+  background-color: $gray-dark;
+  height: 90px;
+
+  &__logo {
+    max-width: 225px;
+    position: relative;
+    margin-top: -10px;
+    font-size: 55px;
+    color: white;
+    display: inline-block;
+  }
+}
